@@ -5,7 +5,7 @@
 
                                     .oOo.       .oOo.       .oOo.
 
-        .oOo. This is a JavaScript Assignment for the forth weekend of my Fullstack Development course .oOo.
+    .oOo. This is a JavaScript Assignment for the forth weekend of my Fullstack Development course .oOo.
 
                         .oOo.  Date of assignment: January 18-19-20, 2023  .oOo.
 
