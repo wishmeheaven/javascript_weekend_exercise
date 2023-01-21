@@ -11,9 +11,9 @@
 
                      .oOo.  Name of academic institution: "Apple Association"  .oOo.
 
-                                    .oOo.       .oOo.       .oOo.
+                                     .oOo.       .oOo.       .oOo.
 
-                                          .oOo.       .oOo.       
+                                           .oOo.       .oOo.       
 
-                                                .oOo.                                                
+                                                  .oOo.                                                
 
